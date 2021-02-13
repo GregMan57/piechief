@@ -1,0 +1,61 @@
+html{
+    height: 100%;
+
+}
+body{
+    background-image: url(piepic/20151201_211301.jpg);
+    background-size: cover;
+    background-position: center;
+    }
+.confini{
+    margin-left: auto;
+    margin-right: 50px;
+    width: 1025px;
+   }
+header{
+    height: 120px;
+    text-align: center;
+    }
+nav{
+    background-color:black;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+main{
+    height: 300px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+footer{
+        
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(252, 161, 3, 0.603);
+    
+}h1{
+    font-size: 55px;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 14px;
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+a{
+    color: cornsilk;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
